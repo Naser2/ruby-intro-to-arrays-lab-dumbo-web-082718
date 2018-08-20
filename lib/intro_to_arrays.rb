@@ -25,7 +25,7 @@ def first_element(array)
 end
 
 def third_element(array)
-    array.index(3)
+    array[3]
 end
 
 def last_element(array)
